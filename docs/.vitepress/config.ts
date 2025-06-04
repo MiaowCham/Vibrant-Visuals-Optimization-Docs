@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   title: 'Vibrant Visuals Optimization',
   description: 'Minecraft 基岩版动态视觉效果优化资源包',
-  base: '/Vibrant-Visuals-Optimization/', // GitHub Pages repository name
+  base: '/Vibrant-Visuals-Optimization-Docs/', // GitHub Pages repository name
 
   themeConfig: {
     nav: [
