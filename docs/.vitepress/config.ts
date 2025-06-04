@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress';
 
-// refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   title: 'Vibrant Visuals Optimization',
   description: 'Minecraft 基岩版动态视觉效果优化资源包',
@@ -23,17 +22,19 @@ export default defineConfig({
           }
         ]
       },
-      { text: 'Github', link: 'https://github.com/MiaowCham/Vibrant-Visuals-Optimization'}
-      // {
-      //   text: 'Dropdown Menu',
-      //   items: [
-      //     { text: 'Item A', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
-
-      // ...
+      {
+        text: 'Github',
+        items:[
+          {
+            text: 'Vibrant Visuals Optimization',
+            link: 'https://github.com/MiaowCham/Vibrant-Visuals-Optimization/'
+          },
+          {
+            text: 'Vibrant Visuals Optimization Docs',
+            link: 'https://github.com/MiaowCham/Vibrant-Visuals-Optimization-Docs/'
+          }
+        ]
+      },
     ],
 
     sidebar: {
@@ -43,6 +44,7 @@ export default defineConfig({
           items: [
             { text: '项目简介', link: '/docs/' },
             { text: '资源包总览', link: '/docs/resource'},
+            { text: '如何使用', link: '/docs/howtouse'},
           ],
         },
       ],
