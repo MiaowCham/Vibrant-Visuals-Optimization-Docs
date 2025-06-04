@@ -15,7 +15,7 @@ hero:
       link: https://github.com/MiaowCham/Vibrant-Visuals-Optimization/actions/workflows/compress-folders.yml
     - theme: brand
       text: 下载稳定发行版
-      link: https://github.com/MiaowCham/Vibrant-Visuals-Optimization/releases
+      link: https://github.com/MiaowCham/Vibrant-Visuals-Optimization/releases/latest
     - theme: alt
       text: 项目文档
       link: /docs

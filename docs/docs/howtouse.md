@@ -1,6 +1,6 @@
-# ❓如何使用
+# ❓ 如何使用
 请先前往 [Actions](https://github.com/MiaowCham/Vibrant-Visuals-Optimization/actions/workflows/compress-folders.yml) 下载构建版，
-或者前往 [Releases](https://github.com/MiaowCham/Vibrant-Visuals-Optimization/releases) 发行版文件<br>
+或者前往 [Releases](https://github.com/MiaowCham/Vibrant-Visuals-Optimization/releases/latest) 发行版文件<br>
 将下载得到的 `mcpack-files.zip` 解压，将解压得到的 `.mcpack` 文件使用 Minecraft 打开即可导入
 
 

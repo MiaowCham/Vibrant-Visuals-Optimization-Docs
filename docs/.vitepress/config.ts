@@ -18,7 +18,7 @@ export default defineConfig({
           },
           {
             text: '下载稳定发行版',
-            link: 'https://github.com/MiaowCham/Vibrant-Visuals-Optimization/releases'
+            link: 'https://github.com/MiaowCham/Vibrant-Visuals-Optimization/releases/latest'
           }
         ]
       },
